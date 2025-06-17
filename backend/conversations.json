@@ -1,0 +1,14 @@
+[
+  {
+    "institute": "Manipal University",
+    "admission_fees": "5000 USD per semester",
+    "courses": ["Engineering", "Medicine", "Arts"],
+    "location": "Manipal, India"
+  },
+  {
+    "institute": "Stanford University",
+    "admission_fees": "15000 USD per semester",
+    "courses": ["Computer Science", "Business", "Law"],
+    "location": "Stanford, CA, USA"
+  }
+]
